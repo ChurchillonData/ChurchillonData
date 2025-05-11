@@ -9,7 +9,7 @@ I’m a Data Science master's student with a background in Economics, passionate
 - 📈 Predictive Modeling
 - 🌍 Tech for Development
 
-### 🌱 Currently Learning:
+### 🚀 On My Radar:
 - 🧠 Deep Learning
 - ⚙️ MLOps
 
