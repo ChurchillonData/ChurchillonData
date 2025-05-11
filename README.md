@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m EMMANUEL BOAKYE (@ChurchillonData)
 
-I’m a Data Science master's graduate with a background in Economics, passionate about using data to drive impactful decisions across industries and build strategic solutions for businesses.
+I’m a Data Science master's student with a background in Economics, passionate about using data to drive impactful decisions across industries and build strategic solutions for businesses.
 
 ---
 
