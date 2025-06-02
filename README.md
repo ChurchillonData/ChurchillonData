@@ -5,7 +5,7 @@ Hi, welcome to my portfolio! Here, I showcase my projects, achievements, and dee
 
 I’m a Data Scientist with a strong foundation in economics and currently pursuing my master’s in data science. I specialize in data analytics, machine learning, business intelligence, and AI-powered workflow automation. My expertise lies in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and support data-driven decision-making across diverse industries.
 
-With experience spanning healthcare, finance, risk management, and operational efficiency, I have consistently delivered impactful solutions—ranging from developing conversational AI tools to automating complex processes that enhance productivity.
+With experience spanning healthcare, finance, risk management, and operational efficiency, I have consistently delivered impactful solutions, ranging from developing conversational AI tools to automating complex processes that enhance productivity.
 
 I am detail-oriented, strategic, and collaborative, driven by a genuine passion for using data to solve real-world problems. My goal is to help businesses harness the power of data to make smarter decisions, streamline operations, and create lasting value.
 ---
