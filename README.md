@@ -21,7 +21,8 @@ I’m a Data Science master's student with a background in Economics, passionate
   
 ### 📫 Reach Me:
 -  📧 Email: boakyemmanuel1@outlook.com
--  🔗 LinkedIn: [linkedin.com/in/emmanuel-boakye-gh ](linkedin.com/in/emmanuel-boakye-gh )
+-  🔗 [LinkedIn](https://linkedin.com/in/emmanuel-boakye-gh)
+
 
 ---
 
