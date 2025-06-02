@@ -1,7 +1,13 @@
-## 👋 Hi, I’m EMMANUEL BOAKYE (@ChurchillonData)
+## 👋 Introducing Myself
 
-I’m a Data Science master's student with a background in Economics, passionate about using data to drive impactful decisions across industries and build strategic solutions for businesses.
+🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+Hi, welcome to my portfolio! Here, I showcase my projects, achievements, and deep passion for data science. 😊
 
+I’m a Data Scientist with a strong foundation in economics and currently pursuing my master’s in data science. I specialize in data analytics, machine learning, business intelligence, and AI-powered workflow automation. My expertise lies in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and support data-driven decision-making across diverse industries.
+
+With experience spanning healthcare, finance, risk management, and operational efficiency, I have consistently delivered impactful solutions—ranging from developing conversational AI tools to automating complex processes that enhance productivity.
+
+I am detail-oriented, strategic, and collaborative, driven by a genuine passion for using data to solve real-world problems. My goal is to help businesses harness the power of data to make smarter decisions, streamline operations, and create lasting value.
 ---
 
 ### 👀 I’m Interested In:
