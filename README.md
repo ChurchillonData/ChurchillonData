@@ -1,6 +1,6 @@
 ## 👋 Introducing Myself
 
-🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+🌟Data Scientist | Data Analyst | Business Intelligence Professional
 Hi, welcome to my portfolio! Here, I showcase my projects, achievements, and deep passion for data science. 😊
 
 I’m a Data Scientist with a strong foundation in economics and currently pursuing my master’s in data science. I specialize in data analytics, machine learning, business intelligence, and AI-powered workflow automation. My expertise lies in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and support data-driven decision-making across diverse industries.
