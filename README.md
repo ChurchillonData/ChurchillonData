@@ -1,6 +1,6 @@
 ## **Introducing Myself**
 
-**Data Scientist | Data Analyst | Business Intelligence**
+### **Data Scientist | Data Analyst | Business Intelligence**
 
 
 
