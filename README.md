@@ -40,18 +40,18 @@ I am detail-oriented, strategic, and collaborative, driven by a genuine passion 
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br/>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" /><br/>Jupyter</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" /><br/>SQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" /><br/>Tableau</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" /><br/>Power BI</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://skillicons.dev/icons?i=python" width="48" /><br/>Python</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" /><br/>Jupyter</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" /><br/>SQL</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" /><br/>Tableau</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" /><br/>Power BI</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" /><br/>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=r" width="48" /><br/>R</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>AWS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" /><br/>Scikit-learn</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" /><br/>Pandas</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://skillicons.dev/icons?i=r" width="48" /><br/>R</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/>TensorFlow</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>AWS</td>
+    <td align="center" style="width: 150px; padding: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" /><br/>Scikit-learn</td>
   </tr>
 </table>
 
