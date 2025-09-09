@@ -1,6 +1,6 @@
 ## **Introducing Myself**
 
-### **Data Scientist | Data Analyst | Business Intelligence**
+### **Gen AI Data Scientist | AI Engineer | Machine Learning Engineer/Specialist**
 
 
 
