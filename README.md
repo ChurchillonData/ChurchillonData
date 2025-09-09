@@ -14,29 +14,29 @@ I am detail-oriented, strategic, and collaborative, driven by a genuine passion 
 
 ---
 
-### 👀 I’m Interested In:
+### I’m Interested In:
 - 🤖 AI for Social Good
 - 📈 Predictive Modeling
 - 🌍 Tech for Development
 
-### 🚀 On My Radar:
+### On My Radar:
 - 🧠 Deep Learning
 - ⚙️ MLOps
 
-### 🧑‍💻 Let’s Build Together:
+### Let’s Build Together:
 - 🔓 Open-source contributions
 - 🤯 Machine learning models solving real-world problems
 - 📊 Data visualizations & dashboards
 - 💬 Tech communities and hackathons
   
-### 📫 Reach Me:
+### Reach Me:
 -  📧 Email: boakyemmanuel1@outlook.com
 -  🔗 LinkedIn: [linkedin.com/in/emmanuel-boakye-gh](https://linkedin.com/in/emmanuel-boakye-gh)
 
 
 ---
 
-## 🛠️ Tools, Libraries and Frameworks:
+## Tools, Libraries and Frameworks:
 
 <table>
   <tr>
