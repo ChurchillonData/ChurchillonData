@@ -13,13 +13,13 @@
 
 ##  About Me
 
-Hi there! I'm a **Data Scientist** with a strong foundation in economics and currently pursuing my master's in data science. I specialize in **data analytics**, **machine learning**, **business intelligence**, and **AI-powered workflow automation**.
+Hi there! I'm a **Data Scientist** with a strong foundation in Machine Learning, AI and practices, processing large data, data mining  and an MSc graduate in data science. I specialize in **data analytics**, **machine learning**, **business intelligence**, and **AI-powered workflow automation**.
 
 My expertise lies in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and support data-driven decision-making across diverse industries.
 
 ###  My Experience Spans:
 - 🏥 Healthcare Analytics
-- 💰 Finance & Risk Management
+- 💰 Fintech & Risk Management
 - ⚙️ Operational Efficiency
 - 🤖 Conversational AI Development
 - 🔄 Process Automation
