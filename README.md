@@ -20,7 +20,7 @@ My expertise lies in leveraging advanced analytics, predictive modeling, and int
 ###  My Experience Spans:
 - 🏥 Healthcare Analytics
 - 💰 Fintech & Risk Management
-- ⚙️ Operational Efficiency
+- ⚙️ Spatial Data Science
 - 🤖 Conversational AI Development
 - 🔄 Process Automation
 
