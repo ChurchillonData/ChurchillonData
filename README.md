@@ -24,7 +24,7 @@ My expertise lies in leveraging advanced analytics, predictive modeling, and int
 - 🤖 Conversational AI Development
 - 🔄 Process Automation
 
-I am **detail-oriented**, **strategic**, and **collaborative**, driven by a genuine passion for using data and AI to solve real-world problems. My goal is to help businesses harness the power of data to make smarter decisions, streamline operations, and create lasting value.
+I am **detail-oriented**, **strategic**, and **collaborative**, driven by a genuine passion for using data and AI to solve real-world problems. My goal is to help businesses harness the power of data to make smarter decisions, streamline operations, and create lasting value. Oh! I love AI and Data Science research
 
 ---
 
