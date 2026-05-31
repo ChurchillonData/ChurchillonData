@@ -1,0 +1,43 @@
+name: Update profile stats
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC. Adjust the cron if you like.
+    - cron: "0 6 * * *"
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - "build_profile.py"  # rebuild immediately if the generator changes
+
+permissions:
+  contents: write           # allow the action to commit the regenerated SVG
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate profile.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build_profile.py ChurchillonData
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain assets/profile.svg)" ]]; then
+            git add assets/profile.svg
+            git commit -m "chore: refresh profile stats [skip ci]"
+            git push
+          else
+            echo "No changes to profile.svg"
+          fi
