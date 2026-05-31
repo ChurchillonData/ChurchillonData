@@ -237,7 +237,8 @@ def main():
         print("ERROR fetching stats:", e, file=sys.stderr)
         sys.exit(1)
     svg = build_svg(stats)
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+    if os.path.dirname(OUT_PATH):
+        os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w") as f:
         f.write(svg)
     print("Wrote " + OUT_PATH + ": repos=%s followers=%s months=%s original=%s%% langs=%s" % (stats["public_repos"], stats["followers"], stats["months"], stats["pct_original"], dict(stats["langs"].most_common(5))))
