@@ -11,7 +11,7 @@ import sys, os, json, urllib.request, datetime
 from collections import Counter
 
 USERNAME = sys.argv[1] if len(sys.argv) > 1 else "ChurchillonData"
-OUT_PATH = os.path.join("assets", "profile.svg")
+OUT_PATH = os.path.join("profile.svg")
 
 # ----- palette -----
 PAPER="#F4F2EE"; INK="#1A1A1A"; ORANGE="#FF4A1C"; GREY="#6B6B6B"; RULE="#D8D4CC"
