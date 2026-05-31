@@ -6,7 +6,7 @@
   clickable links, which a single SVG can't host on GitHub.
 -->
 
-<img src="./assets/profile.svg" alt="Emmanuel Boakye — Data Scientist, Machine Learning Engineer, AI Engineer" width="100%" />
+<img src="./profile.svg" alt="Emmanuel Boakye — Data Scientist, Machine Learning Engineer, AI Engineer" width="100%" />
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChurchillonData&show_icons=true&hide_border=true&hide_title=true&icon_color=FF4A1C&title_color=1A1A1A&text_color=1A1A1A&bg_color=F4F2EE" alt="GitHub stats" />
